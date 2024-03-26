@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : #"PhD Candidate in Economics at Insper"
   location         : #"Sao Paulo, Brazil"
-  employer         : "<a href="https://www.insper.edu.br/en/graduate/doctoral-program/doctoral-in-business-economics-phd-in-business-economics/" target="_blank">Insper</a>"
+  employer         : <a href="https://www.insper.edu.br/en/graduate/doctoral-program/doctoral-in-business-economics-phd-in-business-economics/" target="_blank">Insper</a>
   uri              : # URL
   email            : "heitoraol@al.insper.edu.br" 
 
