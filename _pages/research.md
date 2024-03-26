@@ -5,6 +5,5 @@ title: "Research"
 
 
 
-### Work in Progress
-- _Competition Effects of Government Subsidizing: Evidence from a Drug Access Program_\
-  Solo-authored
+**Competition Effects of Government Subsidizing: Evidence from a Drug Access Program**. Work in progress.
+- Solo-authored
