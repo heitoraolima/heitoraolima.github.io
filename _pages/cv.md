@@ -8,3 +8,5 @@ permalink: /cv/
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/cv_heitor_lima.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+You can download my CV at <a href="/files/cv_heitor_lima.pdf">this link</a>.
