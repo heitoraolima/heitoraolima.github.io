@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /resources/
   - /resources.html
-for examples, look at the about.md file
 ---
 
 Self notes developed during the PhD:
