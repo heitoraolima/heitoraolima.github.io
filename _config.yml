@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Heitor Lima"
 title_separator          : #"-"
-name                     : #&name "Heitor Lima"
+name                     : #name "Heitor Lima"
 description              : #&description "personal description"
 url                      : https://heitoraolima.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
