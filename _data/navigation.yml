@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Research"
+    url: /research/
+  
   - title: "CV"
     url: /files/cv_heitor_lima.pdf
   
@@ -9,8 +12,8 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -20,6 +23,9 @@ main:
     
   #- title: "Guide"
   #  url: /markdown/
+
+  - title: "T.A. Activities"
+    url: /ta/
 
   - title: "Resources"
     url: /resources/
