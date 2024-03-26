@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Methods for Policy Evaluation, 2023"
+title: "Teaching Assistant, Quantitative Methods for Policy Evaluation"
 collection: teaching
 type: "Masters Program"
 permalink: /teaching/2023-ta-mqapp
