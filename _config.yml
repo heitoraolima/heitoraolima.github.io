@@ -25,8 +25,8 @@ author:
   name             : "Heitor Lima"
   pronouns         : # example: "she/her"  
   bio              : #"PhD Candidate in Economics at Insper"
-  location         : "Sao Paulo, Brazil"
-  employer         : "Insper"
+  location         : #"Sao Paulo, Brazil"
+  employer         : "[Insper](https://www.insper.edu.br/en/graduate/doctoral-program/doctoral-in-business-economics-phd-in-business-economics/)"
   uri              : # URL
   email            : "heitoraol@al.insper.edu.br" 
 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0002-0779-7019"
+  orcid            : #"https://orcid.org/0009-0002-0779-7019"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
