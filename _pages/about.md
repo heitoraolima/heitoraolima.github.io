@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: #"Heitor Lima"
+title:
 author_profile: true
 redirect_from: 
   - /about/
