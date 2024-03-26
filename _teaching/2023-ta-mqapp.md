@@ -14,3 +14,4 @@ Teaching assistant at the Quantitative Methods for Policy Evaluation course, Mas
 - <a href="/files/Monitoria 3 - Métodos Quantitativos - 2023.pdf" style="color:black; opacity:.75">Monitoria 3</a>
 - <a href="/files/Monitoria 5 - Métodos Quantitativos - 2023.pdf" style="color:black; opacity:.75">Monitoria 5</a>
 - <a href="/files/Monitoria 7 - Métodos Quantitativos - 2023.pdf" style="color:black; opacity:.75">Monitoria 7</a>
+- <a href="https://www.dropbox.com/scl/fo/7ovx8rolhmf5q6nayx52z/h?rlkey=0jrcy7z7kta770x94xlzhm1tl&dl=0" style="color:black; opacity:.75">Stata do-files, datasets</a>
