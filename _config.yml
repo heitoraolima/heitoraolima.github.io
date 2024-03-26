@@ -24,7 +24,7 @@ author:
   avatar           : "profile_picture.jpg"
   name             : "Heitor Lima"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Economics at Insper"
+  bio              : #"PhD Candidate in Economics at Insper"
   location         : "Sao Paulo, Brazil"
   employer         : "Insper"
   uri              : # URL
