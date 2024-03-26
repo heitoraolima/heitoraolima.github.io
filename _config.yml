@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Heitor Lima"
 title_separator          : "-"
-name                     : &name "Heitor Lima"
+name                     : &name "Home"
 description              : #&description "personal description"
 url                      : https://heitoraolima.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
