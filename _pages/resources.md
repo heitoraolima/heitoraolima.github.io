@@ -1,10 +1,6 @@
 ---
-permalink: /
-title:
-author_profile: true
-redirect_from: 
-  - /resources/
-  - /resources.html
+permalink: /resources/
+title: "Resources"
 ---
 
 Self notes developed during the PhD:
