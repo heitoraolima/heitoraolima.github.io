@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Heitor Lima"
 title_separator          : "-"
 name                     : &name "Heitor Lima"
 description              : #&description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : #"PhD Candidate in Economics at Insper"
   location         : #"Sao Paulo, Brazil"
-  employer         : <a href="https://www.insper.edu.br/en/graduate/doctoral-program/doctoral-in-business-economics-phd-in-business-economics/">Insper</a>
+  employer         : #<a href="https://www.insper.edu.br/en/graduate/doctoral-program/doctoral-in-business-economics-phd-in-business-economics/">Insper</a>
   uri              : # URL
   email            : "heitoraol@al.insper.edu.br" 
 
