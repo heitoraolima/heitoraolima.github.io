@@ -16,6 +16,7 @@ These presentations (in Portuguese) are based on Rogério Santarrosa's classes a
 - <a href="/files/Monitoria 4 - Microdesenvolvimento - 2024.pdf">Monitoria 4</a>
 - <a href="/files/Monitoria 5 - Microdesenvolvimento - 2024.pdf">Monitoria 5</a>
 - <a href="/files/Monitoria 6 - Microdesenvolvimento - 2024.pdf">Monitoria 6</a>
+
 -------
 
 ### Competitive Strategy, Masters (2023)
