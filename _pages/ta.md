@@ -10,7 +10,12 @@ _Insper Institute of Education and Research_\
 Instructor: <a href="https://rogeriosantarrosa.wordpress.com/">Rogério Santarrosa</a>.
 
 These presentations (in Portuguese) are based on Rogério Santarrosa's classes and previous material prepared by <a href="https://sites.google.com/view/victoriagklarosk/home">Victoria Klarosk</a>, who kindly shared her notes with me.
-
+- <a href="/files/Monitoria 1 - Microdesenvolvimento - 2024.pdf">Monitoria 1</a>
+- <a href="/files/Monitoria 2 - Microdesenvolvimento - 2024.pdf">Monitoria 2</a>
+- <a href="/files/Monitoria 3 - Microdesenvolvimento - 2024.pdf">Monitoria 3</a>
+- <a href="/files/Monitoria 4 - Microdesenvolvimento - 2024.pdf">Monitoria 4</a>
+- <a href="/files/Monitoria 5 - Microdesenvolvimento - 2024.pdf">Monitoria 5</a>
+- <a href="/files/Monitoria 6 - Microdesenvolvimento - 2024.pdf">Monitoria 6</a>
 -------
 
 ### Competitive Strategy, Masters (2023)
