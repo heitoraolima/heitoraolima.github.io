@@ -39,4 +39,4 @@ These presentations (in Portuguese) are based on Letícia Nunes' classes and pre
 - <a href="/files/Monitoria 3 - Métodos Quantitativos - 2023.pdf">Monitoria 3</a>
 - <a href="/files/Monitoria 5 - Métodos Quantitativos - 2023.pdf">Monitoria 5</a>
 - <a href="/files/Monitoria 7 - Métodos Quantitativos - 2023.pdf">Monitoria 7</a>
-- <a href="https://www.dropbox.com/scl/fo/y9gdlbpibsvgxghjjj411/h?rlkey=940kxbufphjq5u54snc3z0o5r&dl=0">Stata do-files, datasets</a>
+<!-- - <a href="https://www.dropbox.com/scl/fo/y9gdlbpibsvgxghjjj411/h?rlkey=940kxbufphjq5u54snc3z0o5r&dl=0">Stata do-files, datasets</a> -->
