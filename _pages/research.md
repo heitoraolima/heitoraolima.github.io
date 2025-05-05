@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-
+------
 
 <small>**Effects of Price Subsidies on Market Structure: Evidence from a Drug Access Program**</small><br>
 <small>Heitor Lima</small><br>
