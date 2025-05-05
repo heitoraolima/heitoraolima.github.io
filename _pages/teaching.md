@@ -9,7 +9,7 @@ title: "Teaching"
 <small>Teaching Assistant for Professor <a href="https://rogeriosantarrosa.wordpress.com/" style="text-decoration:none;color:#1E90FF">Rogério Santarrosa</a> @ Insper.</small>
 
 <small>**Quantitative Methods for Policy Evaluation**. 2023-2024. Masters in Public Policy.</small><br>
-<small>Teaching Assistant for Professor <a href="https://www.leticianunes.com/" style="text-decoration:none;color:#0000EE">Letícia Nunes</a> @ Insper.</small>
+<small>Teaching Assistant for Professor <a href="https://www.leticianunes.com/" style="text-decoration:none;color:#1E90FF">Letícia Nunes</a> @ Insper.</small>
 
 <small>**Competitive Strategy**. 2023. Masters in Management.</small><br>
-<small>Teaching Assistant for Professor <a href="https://sites.google.com/view/paulo-f-azevedo/in%C3%ADcio" style="text-decoration:none;color:#0000EE">Paulo Furquim de Azevedo</a> @ Insper.</small>
+<small>Teaching Assistant for Professor <a href="https://sites.google.com/view/paulo-f-azevedo/in%C3%ADcio" style="text-decoration:none;color:#1E90FF">Paulo Furquim de Azevedo</a> @ Insper.</small>
