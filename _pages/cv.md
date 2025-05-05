@@ -3,7 +3,9 @@ title: "CV"
 permalink: /cv/
 ---
 
-You can download my CV at <a href="/files/cv_heitor_lima.pdf">this link</a>.
+
+
+<small>You can download my CV at <a href="/files/cv_heitor_lima.pdf">this link</a>.</small>
 
 <object data="/files/cv_heitor_lima.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/files/cv_heitor_lima.pdf">
