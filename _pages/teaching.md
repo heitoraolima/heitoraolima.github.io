@@ -6,7 +6,7 @@ title: "Teaching"
 
 
 <small>**Development Microeconomics**. 2024-2025. Masters in Economics.</small><br>
-<small>Teaching Assistant for Professor <a href="https://rogeriosantarrosa.wordpress.com/" style="text-decoration:none;color:#0000EE">Rogério Santarrosa</a> @ Insper.</small>
+<small>Teaching Assistant for Professor <a href="https://rogeriosantarrosa.wordpress.com/" style="text-decoration:none;color:#0000FF">Rogério Santarrosa</a> @ Insper.</small>
 
 <small>**Quantitative Methods for Policy Evaluation**. 2023-2024. Masters in Public Policy.</small><br>
 <small>Teaching Assistant for Professor <a href="https://www.leticianunes.com/" style="text-decoration:none;color:#0000EE">Letícia Nunes</a> @ Insper.</small>
