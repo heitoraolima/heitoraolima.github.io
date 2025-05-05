@@ -1,6 +1,6 @@
 ---
 permalink: /ta/
-title: "T.A. Activities"
+title: "Teaching"
 ---
 
 
