@@ -2,18 +2,15 @@
 main:
   - title: "Research"
     url: /research/
-  
-  - title: "CV"
-    url: /cv/
+
+  - title: "Teaching"
+    url: /teaching/    
   
   # - title: "Publications"
   #  url: /publications/
 
   #- title: "Talks"
   #  url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -29,3 +26,6 @@ main:
 
   - title: "Resources"
     url: /resources/
+    
+  - title: "CV"
+    url: /cv/
