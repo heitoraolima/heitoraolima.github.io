@@ -12,8 +12,8 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
-  #- title: "Teaching"
-  #  url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -24,8 +24,8 @@ main:
   #- title: "Guide"
   #  url: /markdown/
 
-  - title: "T.A. Activities"
-    url: /ta/
+  #- title: "T.A. Activities"
+  #  url: /ta/
 
   - title: "Resources"
     url: /resources/
