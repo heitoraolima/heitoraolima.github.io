@@ -5,7 +5,6 @@ title: "Research"
 
 
 
-### Work in progress
 <small>**Effects of Price Subsidies on Market Structure: Evidence from a Drug Access Program**</small><br>
 <small>Heitor Lima</small><br>
 <small>_Work in progress_, 2023</small><br>
