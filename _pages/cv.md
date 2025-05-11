@@ -5,7 +5,7 @@ permalink: /cv/
 
 ------
 
-<small><ins><a href="/files/cv_heitor_lima.pdf" style="text-decoration:none;">Download CV</a></ins></small>
+<ins><a href="/files/cv_heitor_lima.pdf" style="text-decoration:none;">Download CV</a></ins>
 
 <object data="/files/cv_heitor_lima.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/files/cv_heitor_lima.pdf">
