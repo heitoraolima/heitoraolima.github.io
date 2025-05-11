@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: Heitor Lima
+title: "Heitor Lima"
 ---
 
 
