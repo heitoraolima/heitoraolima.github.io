@@ -1,9 +1,7 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: ""
 ---
-
-------
 
 **Development Microeconomics**. 2024-2025. Masters in Economics.<br>
 Teaching Assistant for Professor <a href="https://rogeriosantarrosa.wordpress.com/" style="text-decoration:none;color:#1E90FF">Rogério Santarrosa</a> @ Insper.
