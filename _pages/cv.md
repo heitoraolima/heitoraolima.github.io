@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: ""
 permalink: /cv/
 ---
 
