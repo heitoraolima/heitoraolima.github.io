@@ -3,8 +3,6 @@ title: ""
 permalink: /cv/
 ---
 
-------
-
 <ins><a href="/files/cv_heitor_lima.pdf" style="text-decoration:none;">Download CV</a></ins>
 
 <object data="/files/cv_heitor_lima.pdf" type="application/pdf" width="700px" height="700px">
