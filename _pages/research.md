@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+title: ""
 ---
 
 <h1 style="text-align: center;">Work in Progress</h1>
