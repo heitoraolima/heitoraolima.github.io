@@ -214,7 +214,7 @@ collections:
 
 # No favicon in the browser tab
 head:
-  - "<link rel='icon' type='image/x-icon' href='data:,'>"
+  - <link rel="icon" href="images/profile_picture.jpg" type="image/jpg">
 
 # Defaults
 defaults:
