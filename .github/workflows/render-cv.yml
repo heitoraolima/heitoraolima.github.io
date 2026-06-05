@@ -1,8 +1,6 @@
 name: Render a CV
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:  # só roda quando você acionar manualmente
       - master
     paths:
       - "_data/cv.yml"
