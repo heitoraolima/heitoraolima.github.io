@@ -32,6 +32,8 @@ You can reach me at [heitoraol@al.insper.edu.br](mailto:heitoraol@al.insper.edu.
 
 You can download my [CV here](/assets/pdf/cv_heitor_lima.pdf).
 
+<br><br>
+
 <h4>In Progress</h4>
   <b>1. Market Structure Effects of Supplier-Targeted Subsidies</b><br> 
   <i>First draft coming soon!</i>
