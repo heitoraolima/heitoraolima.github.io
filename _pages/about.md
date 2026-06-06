@@ -35,6 +35,7 @@ You can download my [CV here](/assets/pdf/cv_heitor_lima.pdf).
 <br><br>
 
 <h2><b>In Progress</b></h2>
+<br>
   <b>1. Market Structure Effects of Supplier-Targeted Subsidies</b><br> 
   <i>First draft coming soon!</i>
   <br><br>
