@@ -30,22 +30,18 @@ Welcome! I am a fifth-year PhD candidate in Business Economics [Insper Institute
 
 You can reach me at [heitoraol@al.insper.edu.br](mailto:heitoraol@al.insper.edu.br).
 
-<h2>In Progress</h2>
-
-<p>
-  <h3>1. Market Structure Effects of Supplier-Targeted Subsidies</h3>
+<h3>In Progress</h3>
+  <h4>1. Market Structure Effects of Supplier-Targeted Subsidies</h4>
 <details>
   <summary><strong>Abstract</strong></summary>
   
   Detailed abstract...
   
 </details>
-</p>
 
 <br><br>
-
-<p>
-  <h3>2. Horizontal Mergers of Vertically Integrated Health Insurers</h3><br><br>
+  <h4>2. Horizontal Mergers of Vertically Integrated Health Insurers</h4>
 with [Mateus Dias](https://www.mateusdias.org/) and [Letícia Nunes](https://www.leticianunes.com/)
+
 </p>
 
