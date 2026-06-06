@@ -13,6 +13,7 @@ calendar: false
 <!-- {% include courses.liquid %} -->
 
 Guest Lecture, Maps with R @ Federal University of ABC, Brazil (2025) <br>
+[[Slides]](/assets/pdf/maps_slides.pdf)
 
 Teaching Assistant for [Rogério Santarrosa](https://rogeriosantarrosa.wordpress.com/), Development Microeconomics, Masters @ Insper, Brazil (2024, 2025)<br>
 
