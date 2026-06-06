@@ -32,6 +32,10 @@ You can reach me at [heitoraol@al.insper.edu.br](mailto:heitoraol@al.insper.edu.
 
 You can download my [CV here](/assets/pdf/cv_heitor_lima.pdf).
 
+<a href="https://www.linkedin.com/in/heitor-lima/"><img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b9fb5aa7-daa1-4997-a6c9-a7d992772883" /></a>
+<a href="https://github.com/heitoraolima"><img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/9bb0fc61-ec0d-4d7b-a30e-7f6238b3ee45"/></a>
+
+
 <br><br>
 
 <h2><b>In Progress</b></h2>
