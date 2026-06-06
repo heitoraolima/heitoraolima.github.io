@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>300 Quata Street</p>
-    <p>Sao Paulo, Sao Paulo 04546-042</p>
+    <p>Sao Paulo SP 04546-042</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -30,17 +30,22 @@ Welcome! I am a fifth-year PhD candidate in Business Economics [Insper Institute
 
 You can reach me at [heitoraol@al.insper.edu.br](mailto:heitoraol@al.insper.edu.br).
 
-In Progress
+<h2>In Progress</h2>
 
-"Market Structure Effects of Supplier-Targeted Subsidies"
+<p>
+  <h3>1. Market Structure Effects of Supplier-Targeted Subsidies</h3>
 <details>
   <summary><strong>Abstract</strong></summary>
   
   Detailed abstract...
   
 </details>
+</p>
 
-"Horizontal Mergers of Vertically Integrated Health Insurers"
-with Mateus Dias and Letícia Nunes
+<br><br>
 
+<p>
+  <h3>2. Horizontal Mergers of Vertically Integrated Health Insurers</h3><br><br>
+with [Mateus Dias](https://www.mateusdias.org/) and [Letícia Nunes](https://www.leticianunes.com/)
+</p>
 
