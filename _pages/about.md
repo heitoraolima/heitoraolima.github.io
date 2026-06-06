@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am a fifth-year PhD candidate in Business Economics [Insper Institute of Education and Research](https://www.insper.edu.br/en/programs/graduate/doctoral-program-in-business-economics), Brazil. I hold a BA in Economics from [Federal University of ABC](https://www.ufabc.edu.br/en/), Brazil. My fields of interest are Industrial Organization in general and Health Economics in particular.
+Welcome! I am a fifth-year PhD candidate in Business Economics at [Insper Institute of Education and Research](https://www.insper.edu.br/en/programs/graduate/doctoral-program-in-business-economics), Brazil. I hold a BA in Economics from [Federal University of ABC](https://www.ufabc.edu.br/en/), Brazil. My fields of interest are Industrial Organization in general and Health Economics in particular.
 
 You can reach me at [heitoraol@al.insper.edu.br](mailto:heitoraol@al.insper.edu.br).
 
