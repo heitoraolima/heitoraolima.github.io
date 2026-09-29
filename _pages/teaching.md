@@ -12,6 +12,8 @@ calendar: false
 
 <!-- {% include courses.liquid %} -->
 
+Teaching Assistant for [Letícia Nunes](https://www.leticianunes.com/), Structural Econometrics, Ph.D. in Business Economics @ Insper, Brazil (2026)<br>
+
 Guest Lecture, Maps with R @ Federal University of ABC, Brazil (2025) <br>
 [[Slides]](/assets/pdf/maps_slides.pdf) [[Code]](/assets/jupyter/code.R)
 
